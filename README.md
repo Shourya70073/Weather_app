@@ -1,16 +1,6 @@
 # weather_app
+This is an Weather App developed using Flutter.
+This is the screen-shot of the landing page:-
+![weather_app](https://user-images.githubusercontent.com/71991617/174278867-a28a4abe-b3ea-40b2-bac1-8067c8b6be73.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app automatically fetches, the user location and shows the current weather condition of the user location.
